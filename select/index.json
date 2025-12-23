@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Angel",
+  "base_artist": "ちゃんみな",
+  "createdAt": "2025-12-23T12:50:44.852924Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Blue Angel",
+      "artist": "Aaron Tippin",
+      "has_synced": false,
+      "path": "select/01_My_Blue_Angel_Aaron_Tippin.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Angel Band (Jubilee Version)",
+      "artist": "Tyler Childers",
+      "has_synced": false,
+      "path": "select/02_Angel_Band_(Jubilee_Version)_Tyler_Childers.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Angel Flying Too Close to the Ground",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/03_Angel_Flying_Too_Close_to_the_Ground_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Angel In Disguise",
+      "artist": "Earl Thomas Conley",
+      "has_synced": false,
+      "path": "select/04_Angel_In_Disguise_Earl_Thomas_Conley.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Angel of the Morning (Rerecord)",
+      "artist": "Juice Newton",
+      "has_synced": true,
+      "path": "select/05_Angel_of_the_Morning_(Rerecord)_Juice_Newton.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Angel Of The Morning",
+      "artist": "Juice Newton",
+      "has_synced": true,
+      "path": "select/06_Angel_Of_The_Morning_Juice_Newton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Angel from Montgomery",
+      "artist": "John Prine",
+      "has_synced": false,
+      "path": "select/07_Angel_from_Montgomery_John_Prine.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Angel from Montgomery (LP Version)",
+      "artist": "John Prine",
+      "has_synced": true,
+      "path": "select/08_Angel_from_Montgomery_(LP_Version)_John_Prine.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Angel from Montgomery - Live",
+      "artist": "Bonnie Raitt feat. John Prine",
+      "has_synced": false,
+      "path": "select/09_Angel_from_Montgomery_-_Live_Bonnie_Raitt_feat._John_Prine.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Angel in Blue Jeans",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/10_Angel_in_Blue_Jeans_Train.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Concrete Angel",
+      "artist": "Martina McBride",
+      "has_synced": true,
+      "path": "select/11_Concrete_Angel_Martina_McBride.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kiss An Angel Good Mornin'",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/12_Kiss_An_Angel_Good_Mornin'_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kiss An Angel Good Morning - Live",
+      "artist": "Charley Pride",
+      "has_synced": false,
+      "path": "select/13_Kiss_An_Angel_Good_Morning_-_Live_Charley_Pride.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kiss An Angel Good Morning (Live)",
+      "artist": "Charlie Pryde",
+      "has_synced": false,
+      "path": "select/14_Kiss_An_Angel_Good_Morning_(Live)_Charlie_Pryde.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kiss an Angel Good Mornin'",
+      "artist": "Charley Pride",
+      "has_synced": true,
+      "path": "select/15_Kiss_an_Angel_Good_Mornin'_Charley_Pride.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Angel",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_Angel_ちゃんみな.txt"
+    }
+  ]
+}
